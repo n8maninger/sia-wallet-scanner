@@ -1,0 +1,27 @@
+.DS_Store
+node_modules
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+*.log*
+
+# binaries
+bin/
+dist/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.sh
+*.p12
+*.pem
+*.cer
+*.crt
